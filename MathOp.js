@@ -1,0 +1,5 @@
+const math=require("./Math")
+console.log(math.add(1,2))
+console.log(math.sub(5,6))
+console.log(math.mul(2,3))
+console.log(math.div(4,2))
