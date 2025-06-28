@@ -1,0 +1,12 @@
+28062025	10:54:39
+bcd0ead1-7cd1-41ca-a5aa-f2085c06fc2b
+Log event emitted!
+
+28062025	10:54:51
+fbf9dcea-276d-4a12-af91-90a1a86c58b7
+Log event emitted!
+
+28062025	10:55:07
+05dcda8e-7ccb-4410-ac80-6364a4a7d514
+Log event emitted!
+
